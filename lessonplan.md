@@ -11,7 +11,7 @@ participating in class and ensure code environments are working
 ### Students Do: Print hi to everyone at NumFOCUS (10 minutes)
 * Ask students to use a for loop to print greetings to each other
 
-### Review: Print hi to everyone at NumFOCUS (10 minutes)
+### Exercise Review: Say hi (10 minutes)
 * Review above exercise
 
 ### Instructor Do: Import and objects (10 minutes)
@@ -21,7 +21,7 @@ participating in class and ensure code environments are working
 ### Students Do: Round numbers (10 minutes)
 * Students use for loop and math package to round numbers
 
-### Review: Round numbers (5 minutes)
+### Exercise Review: Review round numbers (5 minutes)
 * Review above exercise
 
 ## Section 2: Environments and Anaconda
