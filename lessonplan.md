@@ -31,8 +31,8 @@ particularly important
 ### Everyone Do: Activate custom environment (15 minutes)
 * Create a custom environment for this project and install necessary packages
 
-## Section 3: XML and Parsing pypi (20 minutes)
-### Instructor Do: Show how to download xml files from pypi
+## Section 3: XML and Parsing pypi 
+### Instructor Do: Show how to download xml files from pypi (20 minutes_
 * Show how pypi is structured and where xml files are stored
   * Explain how xml works
 * Show how to download urls in python using requests
