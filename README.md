@@ -22,3 +22,6 @@ Specifically we will cover
 At the end of this tutorial our hope is the student is able to recognize
 basic python language constructs and be able to extend the example
 to all NumFOCUS projects.
+
+## Prework
+Install Anaconda https://docs.anaconda.com/anaconda/install/  
