@@ -2,6 +2,15 @@ import xml.etree.cElementTree as ET
 import requests
 
 
-xml_string = requests.get('https://pypi.org/rss/project/arviz/releases.xml').text
+# Project XML
+project_xml = 'https://pypi.org/rss/project/arviz/releases.xml'
+
+# XML Parsing
+xml_string = requests.get(project_xml).text
 tree = ET.fromstring(xml_string)
-tree.find("channel").find("item").find("title").text 
+item = tree.find("channel").find("item")
+
+date = item.find("pubDate").text
+title = item.find("title").text
+
+print(project_xml + " " + title + " " + date)

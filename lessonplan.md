@@ -18,8 +18,8 @@ participating in class and ensure code environments are working
 * Show how imports work
 * Show object syntax
 
-### Students Do: Round numbers (10 minutes)
-* Students use for loop and math package to round numbers
+### Students Do: Square Root of numbers (10 minutes)
+* Students use for loop and math package to take square root numbers
 
 ### Exercise Review: Review round numbers (5 minutes)
 * Review above exercise
@@ -32,7 +32,7 @@ particularly important
 * Create a custom environment for this project and install necessary packages
 
 ## Section 3: XML and Parsing pypi 
-### Instructor Do: Show how to download xml files from pypi (20 minutes_
+### Instructor Do: Show how to download xml files from pypi (20 minutes)
 * Show how pypi is structured and where xml files are stored
   * Explain how xml works
 * Show how to download urls in python using requests
