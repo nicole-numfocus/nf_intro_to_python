@@ -1,2 +1,2 @@
-# This is a program to say to Terry
-print("Hi Terry")
+# This is a program to say to Jim
+print("Hi Jim")
