@@ -11,7 +11,7 @@ participating in class and ensure code environments are working
 ### Students Do: Print hi to everyone at NumFOCUS (10 minutes)
 * Ask students to use a for loop to print greetings to each other
 
-### Exercise Review: Say hi (10 minutes)
+### Exercise Review: Say hi (5 minutes)
 * Review above exercise
 
 ### Instructor Do: Import and objects (10 minutes)
