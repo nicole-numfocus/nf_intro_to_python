@@ -3,6 +3,6 @@
 
 # Hint: Go onto pypi and find the xml for pandas, xarray, pymc3, or whatever
 # other libraries you want
-project_xml=[]
+project_xmls = []
 
 # Fill in the code to parse the xml and print the versions
